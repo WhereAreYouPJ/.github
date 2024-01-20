@@ -70,7 +70,11 @@
 <br>
 
 #### 3) 일정 생성(일정 정보 입력 -> 친구 추가 -> 장소 설정)
-<img width="209" height="350" alt="image" src="https://github.com/WhereAreYouPJ/.github/assets/103410386/a1bb5bce-fedc-4f1a-b0ce-743edb8d94b2"> <img width="209" height="350" alt="image" src="https://github.com/WhereAreYouPJ/.github/assets/103410386/b9c25efb-3b46-4b97-a757-26112c262d4e"> <img width="209" height="350" alt="image" src="https://github.com/WhereAreYouPJ/.github/assets/103410386/05f34604-6d97-4dd2-8ccc-c875185c9601"> <img width="209" height="350" alt="image" src="https://github.com/WhereAreYouPJ/.github/assets/103410386/2f94782b-01a3-4259-b973-cb5266dabad4">
+<img width="209" height="350" alt="image" src="https://github.com/WhereAreYouPJ/.github/assets/103410386/a1bb5bce-fedc-4f1a-b0ce-743edb8d94b2"> 
+<img width="209" height="350" alt="image" src="https://github.com/WhereAreYouPJ/.github/assets/103410386/b9c25efb-3b46-4b97-a757-26112c262d4e"> 
+<br>
+<img width="209" height="350" alt="image" src="https://github.com/WhereAreYouPJ/.github/assets/103410386/05f34604-6d97-4dd2-8ccc-c875185c9601"> 
+<img width="209" height="350" alt="image" src="https://github.com/WhereAreYouPJ/.github/assets/103410386/2f94782b-01a3-4259-b973-cb5266dabad4">
 <br>
 <br>
 
