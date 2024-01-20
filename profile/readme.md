@@ -91,7 +91,10 @@
 
 #### 6) 친구 그룹
 ##### 자주 만나는 친구들을 그룹을 설정하여 일정에 친구를 추가할 때 그룹으로 추가할 수 있도록 구현
-<img width="209" height="350" alt="image" src="https://github.com/WhereAreYouPJ/.github/assets/103410386/26f7eb74-4d1f-4119-a2ef-027dedf8eb0e"> <img width="209" height="350" alt="image" src="https://github.com/WhereAreYouPJ/.github/assets/103410386/d3a89731-e1b0-422c-8b52-66b423a6246f"> <img width="209" height="350" alt="image" src="https://github.com/WhereAreYouPJ/.github/assets/103410386/ee15bb55-08d8-4b8f-b1d2-40edc9f73622"> <img width="209" height="350" alt="image" src="https://github.com/WhereAreYouPJ/.github/assets/103410386/85f263be-f6d4-47c6-964b-82ca11b95552">
+<img width="209" height="350" alt="image" src="https://github.com/WhereAreYouPJ/.github/assets/103410386/26f7eb74-4d1f-4119-a2ef-027dedf8eb0e"> 
+<img width="209" height="350" alt="image" src="https://github.com/WhereAreYouPJ/.github/assets/103410386/d3a89731-e1b0-422c-8b52-66b423a6246f">
+<br>
+<img width="209" height="350" alt="image" src="https://github.com/WhereAreYouPJ/.github/assets/103410386/ee15bb55-08d8-4b8f-b1d2-40edc9f73622"> <img width="209" height="350" alt="image" src="https://github.com/WhereAreYouPJ/.github/assets/103410386/85f263be-f6d4-47c6-964b-82ca11b95552">
 <br>
 <br>
 
